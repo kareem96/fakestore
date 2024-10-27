@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">fakestore</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_chat">Category</string>
+    <string name="menu_news">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="logo">MyNote</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="log_out">Logout</string>
+</resources>
